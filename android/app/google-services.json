@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "846530789501",
+    "project_id": "bhukkparcel-6e12e",
+    "storage_bucket": "bhukkparcel-6e12e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846530789501:android:893d47b6cb4b85d2a33114",
+        "android_client_info": {
+          "package_name": "com.bhukk.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22f4OXRy5laOeuFjnUS5OAcGsHubaeRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846530789501:android:7025e7cb7fc77a41a33114",
+        "android_client_info": {
+          "package_name": "com.bhukk.parcel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22f4OXRy5laOeuFjnUS5OAcGsHubaeRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846530789501:android:80d68c150d312ec6a33114",
+        "android_client_info": {
+          "package_name": "com.bhukk.parcelcustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22f4OXRy5laOeuFjnUS5OAcGsHubaeRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
